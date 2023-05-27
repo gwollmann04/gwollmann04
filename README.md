@@ -36,6 +36,7 @@ My name is Guilherme and i am a Frontend Developer <img src="https://media.giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -53,6 +54,57 @@ My name is Guilherme and i am a Frontend Developer <img src="https://media.giphy
 ### 💻 My Projects :
 <br />
 <br />
+
+<div id="header" align="center">
+  <h2>Landing Page</h2>
+</div>
+
+## General information:
+
+Project made using NextJS, TypeScript and ChakraUI in order to my personal landing page.
+
+It's a responsive interface to visualize a little bit about me, my career, education and more.
+
+It is possible to play a game that I developed during a course and it is also connected with an API for sending emails that can be used through the form at the bottom of the page.
+
+In addition, the application was also deployed on Netlify, you can access it through the link:
+
+- [Landing Page](https://gwollmann.netlify.app/)
+
+## 🛠 Technologies
+
+- [Next.JS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ChakraUI](https://chakra-ui.com/)
+
+## 🚀 Getting Started
+
+First, clone the repository
+
+```bash
+git clone https://github.com/gwollmann04/landing-page.git
+```
+
+Then, enter the project folder and install the dependencies with yarn
+
+```bash
+cd landing-page && yarn
+```
+
+Create an `.env` file in the root of the project based on the `.env-example` file
+
+After installation, run the dev environment
+
+```bash
+yarn dev
+# ou
+npm run dev
+```
+
+Go to [http://localhost:3000](http://localhost:3000) to see your application in the browser.
+
+
+---
 
 <div id="header" align="center">
   <h2>NextJS Blog</h2>
