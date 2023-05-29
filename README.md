@@ -169,7 +169,7 @@ This project was created with the idea of ​​using and learning a little abou
 
 In addition, the application was also deployed on Netlify, you can access it through the link:
 
-- [Metaverse](https://gwollmann.netlify.app/)
+- [Metaverse](https://gwollmannmetaverse.netlify.app/)
 
 ## 🛠 Technologies
 
