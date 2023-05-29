@@ -112,7 +112,7 @@ Go to [http://localhost:3000](http://localhost:3000) to see your application in 
 
 ## General information:
 
-Project made using NextJS and MongoDB in order to create a blog.
+Project made during a course using NextJS and MongoDB to create a blog.
 
 It is a responsive interface to view posts about software development and its tools.
 
@@ -161,7 +161,7 @@ Go to [http://localhost:3000](http://localhost:3000) to see your application in 
 
 ## General information:
 
-Project made using NextJS, Tailwind and Framer Motion in order to create a Metaverse project page.
+Project made during a course using NextJS, Tailwind and Framer Motion in order to create a Metaverse project page.
 
 It's a responsive interface to visualize a bit about a Metaverse based project.
 
