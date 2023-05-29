@@ -61,7 +61,7 @@ My name is Guilherme and i am a Frontend Developer <img src="https://media.giphy
 
 ## General information:
 
-Project made using NextJS, TypeScript and ChakraUI in order to create my personal landing page.
+Project made using React, NextJS, TypeScript and ChakraUI in order to create my personal landing page.
 
 It's a responsive interface to visualize a little bit about me, my career, education and more.
 
@@ -73,6 +73,7 @@ In addition, the application was also deployed on Netlify, you can access it thr
 
 ## 🛠 Technologies
 
+- [React](https://react.dev/)
 - [Next.JS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [ChakraUI](https://chakra-ui.com/)
@@ -112,7 +113,7 @@ Go to [http://localhost:3000](http://localhost:3000) to see your application in 
 
 ## General information:
 
-Project made during a course using NextJS and MongoDB to create a blog.
+Project made during a course using React, NextJS and MongoDB to create a blog.
 
 It is a responsive interface to view posts about software development and its tools.
 
@@ -123,6 +124,7 @@ In addition, the application was also deployed on Netlify, you can access it thr
 
 ## 🛠 Technologies
 
+- [React](https://react.dev/)
 - [Next.JS](https://nextjs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -161,7 +163,7 @@ Go to [http://localhost:3000](http://localhost:3000) to see your application in 
 
 ## General information:
 
-Project made during a course using NextJS, Tailwind and Framer Motion in order to create a Metaverse project page.
+Project made during a course using React, NextJS, Tailwind and Framer Motion in order to create a Metaverse project page.
 
 It's a responsive interface to visualize a bit about a Metaverse based project.
 
@@ -173,6 +175,7 @@ In addition, the application was also deployed on Netlify, you can access it thr
 
 ## 🛠 Technologies
 
+- [React](https://react.dev/)
 - [Next.JS](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com)
@@ -205,4 +208,50 @@ Go to [http://localhost:3000](http://localhost:3000) to see your application in 
 
 ---
 
+<div id="header" align="center">
+  <h2>Resaurant Gericht</h2>
+</div>
+
+## General information:
+
+Project made during a course using React, HTML and CSS to create a restaurant page.
+
+It is a responsive interface to view general information of a restaurant, such as Menu, Contact Information, among others.
+
+This project was made with the idea of ​​improving knowledge in HTML and CSS.
+
+In addition, the application was also deployed on Netlify, you can access it through the link:
+- [Gericht](https://resaurantgericht.netlify.app/)
+
+## 🛠 Technologies
+
+- [React](https://react.dev/)
+
+## 🚀 Getting Started
+
+First, clone the repository
+
+```bash
+git clone https://github.com/gwollmann04/Restaurant.git
+```
+
+Then, enter the project folder and install the dependencies with yarn
+
+```bash
+cd Restaurant && yarn
+```
+
+Create an `.env` file in the root of the project based on the `.env-example` file
+
+After installation, run the dev environment
+
+```bash
+yarn dev
+# ou
+npm run dev
+```
+
+Go to [http://localhost:3000](http://localhost:3000) to see your application in the browser.
+
+---
 
