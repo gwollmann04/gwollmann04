@@ -32,6 +32,7 @@ My name is Guilherme and i am a Frontend Developer <img src="https://media.giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -163,7 +164,11 @@ Go to [http://localhost:3000](http://localhost:3000) to see your application in 
 
 ## General information:
 
-Project made during a course using React, NextJS, Tailwind and Framer Motion in order to create a Metaverse project page.
+Project made during a course using React, NextJS, 
+
+
+
+wind and Framer Motion in order to create a Metaverse project page.
 
 It's a responsive interface to visualize a bit about a Metaverse based project.
 
@@ -239,6 +244,56 @@ Then, enter the project folder and install the dependencies with yarn
 
 ```bash
 cd Restaurant && yarn
+```
+
+Create an `.env` file in the root of the project based on the `.env-example` file
+
+After installation, run the dev environment
+
+```bash
+yarn dev
+# ou
+npm run dev
+```
+
+Go to [http://localhost:3000](http://localhost:3000) to see your application in the browser.
+
+---
+
+<div id="header" align="center">
+  <h2>Hoobank</h2>
+</div>
+
+## General information:
+
+Project made during a course using React, ViteJS, Tailwind in order to create a Bank project page.
+
+It's a responsive interface to visualize a little bit about a banking services project.
+
+This project was created with the idea of ​​using and learning a little about ViteJS and Tailwind.
+
+In addition, the application was also deployed on Netlify, you can access it through the link:
+
+- [Hoobank](https://gwollmannbank.netlify.app/)
+
+## 🛠 Technologies
+
+- [React](https://react.dev/)
+- [ViteJS](https://vitejs.dev/)
+- [Tailwind](https://tailwindcss.com/)
+
+## 🚀 Getting Started
+
+First, clone the repository
+
+```bash
+git clone https://github.com/gwollmann04/Hoobank.git
+```
+
+Then, enter the project folder and install the dependencies with yarn
+
+```bash
+cd Hoobank && yarn
 ```
 
 Create an `.env` file in the root of the project based on the `.env-example` file
