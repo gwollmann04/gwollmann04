@@ -122,6 +122,7 @@ Contact emails sent through the application are saved in a database in MongoDB.
 
 In addition, the application was also deployed on Netlify, you can access it through the link:
 - [NextJS Blog](https://gwollmannblog.netlify.app/)
+- [Course Link](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 
 ## 🛠 Technologies
 
@@ -166,8 +167,6 @@ Go to [http://localhost:3000](http://localhost:3000) to see your application in 
 
 Project made during a course using React, NextJS, 
 
-
-
 wind and Framer Motion in order to create a Metaverse project page.
 
 It's a responsive interface to visualize a bit about a Metaverse based project.
@@ -177,6 +176,7 @@ This project was created with the idea of ​​using and learning a little abou
 In addition, the application was also deployed on Netlify, you can access it through the link:
 
 - [Metaverse](https://gwollmannmetaverse.netlify.app/)
+- [Course Link](https://www.youtube.com/watch?v=ugCN_gynFYw&ab_channel=JavaScriptMastery)
 
 ## 🛠 Technologies
 
@@ -227,6 +227,7 @@ This project was made with the idea of ​​improving knowledge in HTML and CSS
 
 In addition, the application was also deployed on Netlify, you can access it through the link:
 - [Gericht](https://resaurantgericht.netlify.app/)
+- [Course Link](https://www.youtube.com/watch?v=4oV65GVVits&t=61s&ab_channel=JavaScriptMastery)
 
 ## 🛠 Technologies
 
@@ -275,6 +276,7 @@ This project was created with the idea of ​​using and learning a little abou
 In addition, the application was also deployed on Netlify, you can access it through the link:
 
 - [Hoobank](https://gwollmannbank.netlify.app/)
+- [Course Link](https://www.youtube.com/watch?v=F627pKNUCVQ&t=3s&ab_channel=JavaScriptMastery)
 
 ## 🛠 Technologies
 
