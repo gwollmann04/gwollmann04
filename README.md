@@ -165,9 +165,7 @@ Go to [http://localhost:3000](http://localhost:3000) to see your application in 
 
 ## General information:
 
-Project made during a course using React, NextJS, 
-
-wind and Framer Motion in order to create a Metaverse project page.
+Project made during a course using React, NextJS, Tailwind and Framer Motion in order to create a Metaverse project page.
 
 It's a responsive interface to visualize a bit about a Metaverse based project.
 
